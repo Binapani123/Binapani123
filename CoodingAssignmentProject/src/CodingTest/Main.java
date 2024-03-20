@@ -14,7 +14,7 @@ public class Main {
         System.out.println(store.getRecentlyPlayed("user1")); // [song6, song2, song1]
         System.out.println(store.getRecentlyPlayed("user2")); // [song5, song4, song3]
         
-        System.out.println("bugu bina");
+        System.out.println("baba bina");
         
         System.out.println("heyyyy");
         System.out.println("babaaaaaaaaaaaaaa");
