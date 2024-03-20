@@ -17,6 +17,9 @@ public class Main {
         System.out.println("baba bina");
         
         System.out.println("heyyyy");
+        System.out.println("babaaaaaaaaaaaaaa");
+        System.out.println("o0ooooo");
+        
         
         
         
