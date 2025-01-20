@@ -13,6 +13,17 @@ public class Main {
 
         System.out.println(store.getRecentlyPlayed("user1")); // [song6, song2, song1]
         System.out.println(store.getRecentlyPlayed("user2")); // [song5, song4, song3]
+        
+        System.out.println("baba bina");
+        
+        System.out.println("heyyyy");
+        System.out.println("babaaaaaaaaaaaaaa");
+        System.out.println("o0ooooo");
+        System.out.println("o0ooo00999oo");
+        
+        
+        
+        
     }
 }
 
